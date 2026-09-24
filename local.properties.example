@@ -1,0 +1,3 @@
+# Copy to local.properties and fill in. local.properties is git-ignored.
+sdk.dir=/path/to/Android/Sdk
+GEMINI_API_KEY=your_gemini_api_key
